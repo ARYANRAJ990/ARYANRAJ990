@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARYANRAJ990
 - 👀 I’m interested in toh learn new things
-- 🌱 I’m currently learning python/c language
-- 💞️ I’m looking for learn hacking/bug bounty
+- 🌱 I’m currently learning java/c language
+- 💞️ I’m looking for learn Unity and Unreal
 -
 
 <!---
