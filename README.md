@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto: raj481281@gmail.com">
  <img src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raj481281@gmail.com"/>
 </a>
- <a href="https://instagram.com/_sheetal05__">
- <img src="https://img.shields.io/badge/-Instagram-darkgreen?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_sheetal05__"/>
+ <a href="https://instagram.com/i.aryanraj12">
+ <img src="https://img.shields.io/badge/-Instagram-darkgreen?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/i.aryanraj12"/>
 </a>
  <a href="https://https://twitter.com/AryanRaj129">
  <img src="https://img.shields.io/badge/-twitter-purple?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/AryanRaj129"/>
