@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ARYANRAJ990&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=ARYANRAJ990&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p> 
 
 <p align = "center">
