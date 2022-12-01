@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello, Myself Aryan Raj <img src="https://media.tenor.com/Ej3BJBhwt_0AAAAM/cute-kitty.gif" style="height:75px;width:75px"></h1>
+<h1 align="center"> Hello, Myself Aryan Raj <img src="https://media.tenor.com/CRTyWf7aUbAAAAAi/thor-love-and-thunder-marvel-studios.gif" style="height:75px;width:75px"></h1>
 <h3 align="center">I am a Java Developer, C++ programmer and Android Development enthusiast.</h3>
 <ul>
  <li> 👀 I’m interested in Kotlin and Jetpack Compose</li>
