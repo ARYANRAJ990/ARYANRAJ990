@@ -25,20 +25,15 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.shields.io/badge/-twitter-purple?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/AryanRaj129"/>
 </a>
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ARYANRAJ990)](https://git.io/streak-stats)
+##   GitHub Stats📊
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/ARYANRAJ990/ARYANRAJ990/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 
-</p>
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARYANRAJ990&theme=radical)
+   
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARYANRAJ990&theme=moonlight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARYANRAJ990&theme=moonlight)
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=ARYANRAJ990&show_icons=true&theme=radical&line_height=27">
