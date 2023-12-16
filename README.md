@@ -25,7 +25,9 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.shields.io/badge/-twitter-purple?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/AryanRaj129"/>
 </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ARYANRAJ990)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ARYANRAJ990&theme=midnight-purple)](https://git.io/streak-stats)
+
 ##   GitHub Stats📊
 
 
@@ -41,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align = "center">
- [![GitHub Streak](https://streak-stats.demolab.com?user=ARYANRAJ990&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 </p> 
 
 <p align = "center">
