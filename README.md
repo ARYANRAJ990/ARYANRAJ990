@@ -25,11 +25,10 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.shields.io/badge/-twitter-purple?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/AryanRaj129"/>
 </a>
 </p>
-<p align="center">
+
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ARYANRAJ990&theme=midnight-purple)](https://git.io/streak-stats)
 
-</p>
 ##   GitHub Stats📊
 
 
