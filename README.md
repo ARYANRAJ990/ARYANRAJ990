@@ -2,7 +2,7 @@
 <h1 align="center"> Hello, Myself Aryan Raj <img src="https://media.tenor.com/CRTyWf7aUbAAAAAi/thor-love-and-thunder-marvel-studios.gif" style="height:75px;width:75px"></h1>
 <h3 align="center">I am a Java Developer, C++ programmer and Android Development enthusiast.</h3>
 <ul>
- <li> 👀 I’m interested in Kotlin and Jetpack Compose</li>
+ <li> 👀 I’m interested in Full-stack Android App development and UX/UI design</li>
  <li>🌱 Skills:-  C++, HTML, CSS, JavaScript, Java, Kotlin,Jetpack Compose, Unity</li>
  
 <!---
@@ -25,9 +25,11 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.shields.io/badge/-twitter-purple?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/AryanRaj129"/>
 </a>
 </p>
-
+<p align="center">
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ARYANRAJ990&theme=midnight-purple)](https://git.io/streak-stats)
 
+</p>
 ##   GitHub Stats📊
 
 
