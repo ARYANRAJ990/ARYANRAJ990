@@ -47,9 +47,6 @@ You can click the Preview link to take a look at your changes.
 
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ARYANRAJ990&theme=redical">
-</p> 
 <hr>
 <img width="100px" align="center" src="https://komarev.com/ghpvc/?username=your-github-ARYANRAJ990&style=flat-square&color=232323">
 
