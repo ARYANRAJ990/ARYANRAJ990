@@ -3,7 +3,7 @@
 <h3 align="center">I am a Java Developer, C++ programmer and Android Development enthusiast.</h3>
 <ul>
  <li> 👀 I’m interested in Full-stack Android App development and UX/UI design</li>
- <li>🌱 Skills:-  C++, HTML, CSS, JavaScript, Java, Kotlin,Jetpack Compose, Unity</li>
+ <li>🌱 Skills:-  C++, HTML, CSS, JavaScript, Java, Flutter, Kotlin,Jetpack Compose, Unity</li>
  
 <!---
 ARYANRAJ990/ARYANRAJ990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
